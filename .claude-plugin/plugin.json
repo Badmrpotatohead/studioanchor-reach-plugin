@@ -1,0 +1,10 @@
+{
+  "name": "studioanchor-reach",
+  "version": "1.1.0",
+  "description": "Use StudioAnchor Reach for contact management, email campaign drafting, sequence workflows, and performance reporting with explicit delivery approvals.",
+  "author": { "name": "Sivants, LLC", "url": "https://www.studioanchor.app" },
+  "homepage": "https://www.studioanchor.app/docs/reach-connectors",
+  "mcpServers": {
+    "reach": { "type": "http", "url": "https://www.studioanchor.app/api/mcp" }
+  }
+}
